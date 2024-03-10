@@ -16,10 +16,7 @@ import {
   figma,
   docker,
   meta,
-  starbucks,
   esolutions,
-  tesla,
-  shopify,
   carrent,
   jobit,
   tripguide,
@@ -145,7 +142,7 @@ const experiences = [
   {
     title: "Web Developer",
     company_name: "Freelance",
-    icon: shopify,
+    icon: esolutions,
     iconBg: "#383E56",
     date: "Jun 2020 - Sep 2021",
     points: [
@@ -171,11 +168,10 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "Para poder adquirir conocimientos en Javascript tanto del lado del cliente como del servidor.",
+      "React en profundidad. MERN",
     name: "Fernando Herrera",
     designation: "Professor and developer",
-    company: "Udemy",
-    image: "https://randomuser.me/api/portraits/men/4.jpg",
+    company: "Udemy"
   },
   {
     testimonial:
@@ -183,7 +179,6 @@ const testimonials = [
     name: "Fazt",
     designation: "Courses",
     company: "Fazt",
-    image: "https://randomuser.me/api/portraits/men/5.jpg",
   },
   {
     testimonial:
@@ -191,7 +186,6 @@ const testimonials = [
     name: "UTN",
     designation: "web development",
     company: "UTN-FRBA",
-    image: "https://randomuser.me/api/portraits/women/6.jpg",
   },
 ];
 
