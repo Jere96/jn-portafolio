@@ -47,8 +47,8 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        Soy un desarrollador de software con experiencia en
-        JavaScript, y con experiencia en frameworks como React, Node.js y Three.js.
+        Soy desarrollador Fullstack / Mobile con más de 3 años de experiencia
+        profesional en JavaScript, React, React Native, Node.js y Java.
         Aprendo rápido y colaboro estrechamente con los clientes para crear
         soluciones eficientes, escalables y fáciles de usar que resuelvan
         problemas del mundo real. ¡Trabajemos juntos!

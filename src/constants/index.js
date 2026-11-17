@@ -45,15 +45,15 @@ const services = [
   },
   {
     title: "React Developer",
-    icon: mobile,
+    icon: reactjs,
   },
   {
     title: "Backend Developer",
     icon: backend,
   },
   {
-    title: "Content Creator",
-    icon: creator,
+    title: "React Native Developer",
+    icon: mobile,
   },
 ];
 
@@ -114,6 +114,18 @@ const technologies = [
 
 const experiences = [
   {
+    title: "Fullstack / Mobile Developer",
+    company_name: "TiNegocios (México, remoto)",
+    icon: web,
+    iconBg: "#383E56",
+    date: "May 2025 - Nov 2026",
+    points: [
+      "Desarrollo de aplicaciones mobile con React Native.",
+      "Desarrollo de funcionalidades backend con Node.js.",
+      "Trabajo remoto con un equipo distribuido en México.",
+    ],
+  },
+  {
     title: "React.js Developer",
     company_name: "Esolutions",
     icon: esolutions,
@@ -149,18 +161,6 @@ const experiences = [
       "Desarrollando paginas web responsive para personas particulares",
       "Deploying y mantenimiento",
       "Maquetacion y layouts",
-    ],
-  },
-  {
-    title: "Full stack Developer",
-    company_name: "?",
-    icon: meta,
-    iconBg: "#E6DEDD",
-    date: "Jun 2023 - Present",
-    points: [
-      "Estoy buscando un nuevo desafio. Me gustaria trabajar con algunas de las siguientes tecnologias:",
-      "Reactjs, Node.js, Python, Qwik, Mongodb.",
-      "Aunque no es necesario que sean estrictamente estas. Estaré conforme en un proyecto interesante con gente que me haga sentir comodo. Estoy dispuesto a cualquier desafio"
     ],
   },
 ];
